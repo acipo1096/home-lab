@@ -53,7 +53,7 @@ My web server is segmented behind a TP-Link Omada ER605 VPN router for security 
 
 ### Synology DS220+
 
-Used primarily as a backup for personal files. Also syncs with Google Drive and OneDrive for extra backups. I also host two custom web apps here: a Broadway Rankings app ([]) and a Guitar Song Randomizer ([]).
+Used primarily as a backup for personal files. Also syncs with Google Drive and OneDrive for extra backups. I also host two custom web apps here: a Broadway Rankings app ([https://github.com/acipo1096/guitar-song-style-randomizer]) and a Guitar Song Randomizer ([https://github.com/acipo1096/guitar-song-style-randomizer]).
 
 ### Synology DS220j
 
