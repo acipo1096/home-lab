@@ -61,4 +61,6 @@ My first NAS, purchased at the end of 2020. It runs much more slowly than my 220
 
 ## Diagram
 
-![Home lab network diagram]([https://github.com/acipo1096/home-lab/"Home Lab.drawio.png"](https://github.com/acipo1096/home-lab/blob/main/Home%20Lab.drawio.png))
+![alt text](https://github.com/acipo1096/home-lab/blob/main/Home%20Lab.drawio.png "Home lab network diagram")
+
+[logo]: https://github.com/acipo1096/home-lab/blob/main/Home%20Lab.drawio.png "Home lab network diagram"
