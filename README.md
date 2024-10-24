@@ -2,7 +2,7 @@
 
 ## Computers
 
-### Custom Build PC
+### Custom Built PC
 
 *Insert picture here*
 
