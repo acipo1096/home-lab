@@ -60,3 +60,5 @@ Used primarily as a backup for personal files. Also syncs with Google Drive and 
 My first NAS, purchased at the end of 2020. It runs much more slowly than my 220+. I use it primarily for Time Machine backups and backups for some files stored on the 220+.
 
 ## Diagram
+
+![Home lab network diagram](https://github.com/acipo1096/home-lab/"Home Lab.drawio.png")
