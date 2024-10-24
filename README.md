@@ -33,7 +33,7 @@ Unfortunately, my computer will not support Windows 11. I plan to build a newer,
 
 #### Background
 
-In September 2024, my church was starting to get rid of some old computers, and I was able to take this one home. I decided to use it as a web server to host a website for my music. (For more information, see https://github.com/acipo1096/(https://github.com/acipo1096/music-website).)
+In September 2024, my church was starting to get rid of some old computers, and I was able to take this one home. I decided to use it as a web server to host a website for my music. (For more information, see https://github.com/acipo1096/music-website.)
 
 #### Setup
 
