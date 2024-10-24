@@ -13,13 +13,15 @@ In 2019, I earned my first IT certification, the CompTIA A+. While I was happy m
 #### Parts
 
 I used the following components in my PC:
-- CPU
-- 16 GB RAM (I'd eventually upgrade to 32 GB of RAM a few years later)
-- Motherboard
-- SanDisk 1TB SSD. Later, after my old MacBook Pro 2012 was recycled, I removed the Samsung 1TB SSD from that machine and inserted it into my PC to be used as a hard drive for my games
-- Graphics Card
-- Operating System: Windows 10 for Education
-- Case
+- **CPU:** AMD Ryzen 5 2400G with Radeon Vega Graphics 3.60 GHz
+- **Memory**: 16 GB RAM (I'd eventually upgrade to 32 GB of RAM a few years later)
+- **Motherboard**: Gigabyte B450M DS3H WIFI
+- **Storage**:
+  - SanDisk 1TB SSD
+  - Later, after my old MacBook Pro 2012 was recycled, I removed the Samsung 1TB SSD from that machine and inserted it into my PC to be used as a hard drive for my games
+- **Graphics Card**: Radeon RX 580 Series
+- **Operating System:** Windows 10 for Education
+- **Case**: Cooler Master N200
 
 #### Impact
 
