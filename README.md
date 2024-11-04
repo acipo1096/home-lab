@@ -4,8 +4,6 @@
 
 ### Custom Built PC
 
-*Insert picture here*
-
 #### Background
 
 In 2019, I earned my first IT certification, the CompTIA A+. While I was happy my hard work paid off, and while I could describe all the parts of a PC, I had never really taken a PC apart before. I knew my certification would be more meaningful if I could back it up with a tangible project. So in January 2020, I headed over to Micro Center and got the parts I needed.
